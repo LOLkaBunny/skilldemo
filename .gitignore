@@ -73,10 +73,10 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/Paragon*/
-Content/ModSci*/
-Content/StarterContent/
-Content/FreeAnimationLibrary/
-Content/LevelPrototyping/
-Content/Collections/
-Content/Developers/
+Content/ModSci*/*
+Content/StarterContent/*
+Content/FreeAnimationLibrary/*
+Content/LevelPrototyping/*
+Content/Collections/*
+Content/Developers/*
+Content/ParagonPhase/*
